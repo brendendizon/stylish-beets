@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #c9b5ab;
-  line-height: 1.5
+  line-height: 1.5;
   font-weight: normal;
 }
 
@@ -12,13 +12,13 @@ html {
 h1 {
   font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
-  color: #3f1622
+  color: #3f1622;
 }
 
 h2 {
   font-family: "PT Sans", sans-serif;
+  color: #3f1622;
   font-size: 1.5rem;
-  color: #3f1622
 }
 
 nav ol li {
@@ -33,13 +33,13 @@ a {
 }
 
 a:hover {
-  color: #3f1622
+  color: #3f1622;
   border-bottom: 3px;
   text-decoration: none;
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 /* font-family: 'PT Sans', sans-serif;
